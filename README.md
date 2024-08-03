@@ -44,10 +44,7 @@ I'm a passionate Full Stack Developer with a strong foundation in a variety of t
   - Performance Optimization
   - Technical Writing and Documentation
 
-### Projects:
-- [Project 1](link): Description
-- [Project 2](link): Description
-- [Project 3](link): Description
+
 
 ### Let's Connect:
 - [Website](https://rickybarika.netlify.app)
