@@ -1,10 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Ricky+Barika;Full+Stack+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  
+  <!-- Dropping Name Animation -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=R+I+C+K+Y;B+A+R+I+K+A" alt="Ricky Barika" />
+  </h1>
+  
+  <!-- Typing Animation for Titles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Ricky+Barika;Full+Stack+Developer;Problem+Solver+%26+Innovator;Code+Craftsman+%F0%9F%9A%80;Building+Tomorrow's+Tech" alt="Typing SVG" />
 </div>
 
 <div align="center">
+  
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  <!-- Profile Badges -->
   <img src="https://komarev.com/ghpvc/?username=barikaricky&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/barikaricky?label=Followers&style=social" alt="followers" />
+  
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 <br/>
@@ -13,13 +29,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a **Full Stack Developer** passionate about crafting elegant solutions to complex problems. With expertise spanning modern web technologies, I transform ideas into scalable, performant applications.
+I'm **Ricky Barika**, a passionate **Full Stack Developer** crafting elegant solutions to complex problems. With expertise spanning modern web technologies, I transform ideas into scalable, performant applications.
 
 - 🔭 **Current Focus:** Building enterprise-grade applications with cutting-edge technologies
 - 🌱 **Learning:** Cloud Architecture, Microservices, and AI/ML Integration
 - 💡 **Philosophy:** Clean code, robust architecture, and continuous innovation
 - 🤝 **Open to:** Collaborations on impactful projects and open-source contributions
 - 📍 **Location:** Available for remote opportunities worldwide
+- 💼 **Portfolio:** [rickybarika.netlify.app](https://rickybarika.netlify.app)
 
 <br clear="right"/>
 
