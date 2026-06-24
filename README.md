@@ -37,7 +37,6 @@ I'm **Ricky Barika**, a passionate **Full Stack Developer** crafting elegant sol
 - 🤝 **Open to:** Collaborations on impactful projects and open-source contributions
 - 📍 **Location:** Available for remote opportunities worldwide
 
-
 <br clear="right"/>
 
 ## 📊 GitHub Statistics
