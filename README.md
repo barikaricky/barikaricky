@@ -36,7 +36,7 @@ I'm **Ricky Barika**, a passionate **Full Stack Developer** crafting elegant sol
 - 💡 **Philosophy:** Clean code, robust architecture, and continuous innovation
 - 🤝 **Open to:** Collaborations on impactful projects and open-source contributions
 - 📍 **Location:** Available for remote opportunities worldwide
-- 💼 **Portfolio:** [rickybarika.netlify.app](https://rickybarika.netlify.app)
+
 
 <br clear="right"/>
 
